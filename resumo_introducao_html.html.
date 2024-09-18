@@ -1,0 +1,23 @@
+<h1>Exemplo completo de html</h1>
+<h2>Introdução ao html</h2> 
+<p>HTML, ou Linguagem de Marcação de Hipertexto, é um padrão usado para criar e estruturar páginas web.</p>
+<ol>
+<li>Html e sua iniciação</li>
+<li>Estrutura do documento Html</li>
+<li>Html na prática</li>
+<li>Finalização</li>
+</ol>
+<p>Para iniciar no HTML, é importante compreender a estrutura básica de um documento HTML, incluindo as tags principais como !DOCTYPE html,html,head e body. Além disso,
+<b> é recomendado utilizar recursos online como tutoriais interativos</b>,criar projetos simples para praticar, analisar exemplos de código e participar de comunidades de desenvolvimento web. Com dedicação e prática,
+<i>você rapidamente se tornará proficiente em HTML.<i></p>
+<h3>Estrututura do documento html</h3>
+<p>Um documento HTML é estruturado em <i>várias partes essenciais:</i>
+<b>1) Declaração do Tipo de Documento, 2) Elemento <html>,3) Elemento <head> (com título, metadados, links para CSS e scripts) e 4) Elemento <body> (com conteúdo visível da página)</b>. Esses componentes ajudam os navegadores a renderizar a página corretamente e organizam o conteúdo de forma estruturada.</p>
+<h3>Html na prática</h3>
+<p>HTML é a linguagem fundamental para a criação de páginas web. Na prática, ele permite estruturar conteúdo, 
+<b>como textos, imagens e links<b>, utilizando tags específicas. Com o HTML, você pode criar layouts simples e funcionais, facilitando a comunicação de informações na internet. É a base para qualquer desenvolvedor web!</p>
+<h3>Finalização</h3>
+<p>Para finalizar o assunto de HTML, posso resumir que HTML é a linguagem fundamental para criar páginas web. <i>Ela permite estruturar conteúdo como textos, imagens e links usando tags específicas</i>.<b> Com o HTML, você pode criar layouts simples e funcionais, facilitando a comunicação de informações na internet</b>. É a base para qualquer desenvolvedor web!</p>
+<blockquote> "Nunca Pare de Tentar." -Vida da gente <blockquote/>
+<a href="/sobre.html">Fim da página</a><br>
+<a href="#secao1">Ir para o Início
